@@ -1,0 +1,53 @@
+@media only screen and (max-width: 400px) {
+  h1 {
+    font-size: 55px;
+  }
+
+
+  .main {
+    display: block;
+  }
+
+ .txt {
+    font-size: 15px;
+    font-family: 'Creepster';
+    margin-top: 200px;
+    text-align: center;
+  } 
+
+  .main .txt h1 {
+    margin-right: 80px;
+    font-size: 24px;
+  }
+
+  .main .txt p {
+    margin-right: 80px;
+    font-size: 17px;
+  }
+
+  .main img {
+    margin-left: 80px;
+    margin-bottom: -50px;
+  }
+
+  .by {
+    margin-top: 100px;
+    width: 246px;
+  }
+
+  .by  button {
+    width: 137px;
+  }
+
+  .by h1 {
+    font-size: 20px;
+  }
+
+  footer {
+    margin-top: 220px;
+    font-size: 10px;
+  }
+
+  
+  
+}
